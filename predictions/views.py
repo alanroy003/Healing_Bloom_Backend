@@ -27,7 +27,7 @@ for key, value in DISEASE_DETAILS.items():
 
 # Load model once at startup
 try:
-    MODEL = load_model(settings.BASE_DIR / 'predictions/ml_model/skin_diseases_details.h5')
+    MODEL = load_model(settings.BASE_DIR / 'predictions/ml_model/skin_dis_org.h5')
 except Exception as e:
     raise RuntimeError(f"Error loading ML model: {str(e)}")
 
