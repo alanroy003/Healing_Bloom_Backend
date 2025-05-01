@@ -1,0 +1,197 @@
+{
+    "AKIEC": {
+      "disease_name": "Actinic Keratosis Invasive (AKIEC)",
+      "symptoms": [
+        "Red or pink scaly patch",
+        "Dry or cracked skin",
+        "Itchy or tender feeling"
+      ],
+      "home_remedies": [
+        "Apply aloe vera gel to soothe the skin",
+        "Avoid sun exposure and use sunscreen regularly",
+        "Moisturize your skin frequently"
+      ],
+      "precautions": [
+        "Avoid prolonged sun exposure",
+        "Wear protective clothing",
+        "Regular skin check-ups with a dermatologist"
+      ],
+      "medicines": [
+        "Topical chemotherapy agents (e.g., 5-fluorouracil)",
+        "Cryotherapy (freezing the lesions)",
+        "Photodynamic therapy"
+      ],
+      "next_steps": [
+        "Consult with a dermatologist for proper diagnosis",
+        "Consider cryotherapy or topical treatments based on severity",
+        "Regular monitoring of the affected area"
+      ]
+    },
+    "BCC": {
+      "disease_name": "Basal Cell Carcinoma (BCC)",
+      "symptoms": [
+        "Pearly or waxy bump on skin",
+        "Bleeding or scabbing sore that doesn't heal",
+        "Itching or tenderness in the affected area"
+      ],
+      "home_remedies": [
+        "Avoid sun exposure to prevent worsening",
+        "Apply sunscreen with SPF 30 or higher",
+        "Use moisturizing creams to keep the skin hydrated"
+      ],
+      "precautions": [
+        "Avoid direct sun exposure, especially during peak hours",
+        "Wear hats and protective clothing when outdoors",
+        "Regular dermatological checks for early detection"
+      ],
+      "medicines": [
+        "Surgical excision of the tumor",
+        "Topical chemotherapy (e.g., Imiquimod)",
+        "Radiation therapy (in some cases)"
+      ],
+      "next_steps": [
+        "Visit a dermatologist for diagnosis and treatment plan",
+        "Consider surgical removal or radiation therapy",
+        "Follow up regularly with the dermatologist"
+      ]
+    },
+    "BKL": {
+      "disease_name": "Benign Keratosis Lesions (BKL)",
+      "symptoms": [
+        "Raised, scaly patches or growths on skin",
+        "Color ranges from light tan to dark brown",
+        "Itching or irritation in some cases"
+      ],
+      "home_remedies": [
+        "Apply gentle exfoliation with natural scrubs",
+        "Use moisturizing lotions to keep skin hydrated",
+        "Avoid excessive sun exposure"
+      ],
+      "precautions": [
+        "Avoid scratching or picking at the lesions",
+        "Protect skin from sunburn with sunscreen",
+        "Consult a doctor for removal if necessary"
+      ],
+      "medicines": [
+        "Cryotherapy",
+        "Laser treatment",
+        "Topical treatments"
+      ],
+      "next_steps": [
+        "Monitor the lesions for any changes in size or appearance",
+        "If lesions become problematic, seek medical advice",
+        "Consider non-invasive treatments for removal"
+      ]
+    },
+    "DF": {
+      "disease_name": "Dermatofibroma (DF)",
+      "symptoms": [
+        "Firm, raised bump on the skin",
+        "Usually brown or reddish in color",
+        "Occasionally itchy or tender"
+      ],
+      "home_remedies": [
+        "Avoid scratching or irritating the lesion",
+        "Moisturize the skin to reduce irritation",
+        "Use sunblock to prevent darkening of the lesion"
+      ],
+      "precautions": [
+        "Monitor the lesion for any changes in size",
+        "Consult with a dermatologist if it becomes painful or changes color",
+        "Avoid excessive sun exposure"
+      ],
+      "medicines": [
+        "Surgical removal if necessary",
+        "Cryotherapy in some cases",
+        "Laser therapy for cosmetic reasons"
+      ],
+      "next_steps": [
+        "Consult a dermatologist to rule out any malignant conditions",
+        "If the lesion is painless and unchanged, no immediate action is needed",
+        "Consider surgical removal for cosmetic concerns"
+      ]
+    },
+    "MEL": {
+      "disease_name": "Melanoma (MEL)",
+      "symptoms": [
+        "Irregularly shaped moles",
+        "Changes in size, color, or texture of moles",
+        "Bleeding or itching in the affected area"
+      ],
+      "home_remedies": [
+        "Avoid sun exposure and tanning beds",
+        "Apply sunscreen regularly (SPF 50+)",
+        "Wear protective clothing and hats"
+      ],
+      "precautions": [
+        "Regularly check your skin for any new or changing moles",
+        "Consult with a dermatologist for any suspicious moles",
+        "Seek early medical attention if moles change"
+      ],
+      "medicines": [
+        "Surgical removal of the melanoma",
+        "Chemotherapy, radiation, or immunotherapy depending on stage",
+        "Targeted therapies for advanced melanoma"
+      ],
+      "next_steps": [
+        "Seek immediate consultation with a dermatologist if melanoma is suspected",
+        "Undergo a biopsy for diagnosis",
+        "Follow a treatment plan depending on the stage of melanoma"
+      ]
+    },
+    "NV": {
+      "disease_name": "Melanocytic Nevi (NV)",
+      "symptoms": [
+        "Pigmented, round, or oval growth on the skin",
+        "Usually brown or black in color",
+        "Can be flat or raised"
+      ],
+      "home_remedies": [
+        "Monitor for changes in size, shape, or color",
+        "Apply sunscreen to prevent sun damage",
+        "Avoid irritating the mole with excessive rubbing or scratching"
+      ],
+      "precautions": [
+        "Regular self-examination for changes in appearance",
+        "Consult a dermatologist for any new or changing moles",
+        "Use sun protection to prevent sun damage"
+      ],
+      "medicines": [
+        "Surgical removal if necessary",
+        "Laser treatment in some cases"
+      ],
+      "next_steps": [
+        "Consult with a dermatologist if you notice any changes in the nevus",
+        "Undergo biopsy if there is concern about malignancy"
+      ]
+    },
+    "VASC": {
+      "disease_name": "Vascular Lesions (VASC)",
+      "symptoms": [
+        "Red or purple blood vessels visible under the skin",
+        "Bruising or swelling in the affected area",
+        "Pain or tenderness in some cases"
+      ],
+      "home_remedies": [
+        "Elevate the affected area to reduce swelling",
+        "Cold compress to reduce pain and inflammation",
+        "Use moisturizing creams to keep the skin hydrated"
+      ],
+      "precautions": [
+        "Avoid injury to the affected area",
+        "Wear compression garments if advised by a doctor",
+        "Regular follow-up with a dermatologist"
+      ],
+      "medicines": [
+        "Sclerotherapy (injections for blood vessel closure)",
+        "Laser treatments for cosmetic purposes",
+        "Topical treatments to reduce irritation"
+      ],
+      "next_steps": [
+        "Consult a dermatologist for further evaluation",
+        "Consider laser therapy or sclerotherapy for treatment",
+        "Monitor the lesions for any signs of infection or enlargement"
+      ]
+    }
+  }
+  
