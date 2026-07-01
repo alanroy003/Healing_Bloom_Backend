@@ -2,6 +2,13 @@
 
 This repository contains the backend code for the **Healing Bloom** app, built using **Django** as the framework and **PostgreSQL** as the database. The backend handles user profile management, skin disease identification, and medicine cure recommendations. It serves the Flutter frontend via RESTful APIs.
 
+## 🔗 Repositories
+
+| Component                     | Repository Link                                                              |
+| :---------------------------- | :--------------------------------------------------------------------------- |
+| **📱 Frontend (Flutter)**     | [Healing Bloom App](https://github.com/yourusername/healing_bloom)           |
+| **🖥️ Backend** | [Healing Bloom Backend](https://github.com/alanroy003/Healing_Bloom_Backend) |
+
 ## Features
 
 - **User Profile Management**: Handles user registration, login, and profile management.
